@@ -1,6 +1,6 @@
 function Wishlist() {
   return (
-    <section className="w-full min-h-[80vh] font-montserrat p-4 md:p-10">
+    <section className="w-full min-h-[80vh] overflow-x-scroll font-montserrat p-4 md:p-10">
         <h1 className="text-2xl font-bold mb-4">My WishList :-</h1>
         <pre>
             &lt;html&gt; <br />

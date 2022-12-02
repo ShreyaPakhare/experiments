@@ -1,6 +1,6 @@
 function Animal() {
   return (
-    <section className="w-full min-h-[80vh] font-montserrat p-4 md:p-10">
+    <section className="w-full min-h-[80vh] font-montserrat overflow-x-scroll p-4 md:p-10">
         <h1 className="text-2xl font-bold mb-4">My Awesome Animal :-</h1>
         <pre>
         &lt;html&gt; <br />
