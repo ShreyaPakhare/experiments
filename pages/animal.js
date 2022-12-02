@@ -6,7 +6,7 @@ function Animal() {
         &lt;html&gt; <br />
         &lt;head&gt;
         &lt;title&gt;My Favorite Animal&lt;/title&gt; <br />
-        &lt;style&gt;&gt; <br />
+        &lt;style&gt; <br />
         h1,h2 {'{'} <br />
         font-family:"Merriweather",serif; <br />
         clear:both; <br />
